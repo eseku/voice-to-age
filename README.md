@@ -1,16 +1,5 @@
 --------------------------------------------
 
-Author: Shahan Ali Memon
-
-Mentors: Rita Singh, Bhiksha Raj
-
-Copyright (c) 2017 Carnegie Mellon University
-
---------------------------------------------
-
-
---------------------------------------------
-
 REQUIREMENTS:
 
 To run the voice2age.py program, you would need the following libraries:
