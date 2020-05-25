@@ -1,18 +1,3 @@
-# Copyright (c) 2006 Carnegie Mellon University
-#
-# You may copy and modify this freely under the same terms as
-# Sphinx-III
-
-"""Compute MFCC coefficients.
-
-This module provides functions for computing MFCC (mel-frequency
-cepstral coefficients) as used in the Sphinx speech recognition
-system.
-"""
-
-__author__ = "David Huggins-Daines <dhuggins@cs.cmu.edu>"
-__version__ = "$Revision: 6390 $"
-
 import numpy, numpy.fft
 
 def mel(f):
