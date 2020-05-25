@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 5a807f59a58c2edc5ff7b8cb0c6ef39ee0a65ede
---------------------------------------------
-
-REQUIREMENTS:
+## REQUIREMENTS:
 
 To run the voice2age.py program, you would need the following libraries:
 - keras
@@ -23,6 +17,3 @@ PS. If the model does not load due to the error "Can't load_model with error “
 
 Now you should try to run the program again.
 
---------------------------------------------
-
---------------------------------------------
